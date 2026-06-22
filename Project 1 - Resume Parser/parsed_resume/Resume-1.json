@@ -1,0 +1,64 @@
+{
+    "Contact Information": {
+        "Name": "Drishti Sharma",
+        "Email": "drishti.1106@gmail.com",
+        "Phone Number": "+91 9111470933",
+        "Website/Portfolio": null
+    },
+    "Education": {
+        "Institution Name": "IPS Academy, Indore",
+        "Degree": "B. Tech in Artificial Intelligence and Machine Learning",
+        "Field of Study": "Artificial Intelligence and Machine Learning",
+        "Graduation Dates": "Sept 2023 \u2013 Present"
+    },
+    "Experience": {
+        "Job Title": "Student",
+        "Company Name": "IPS Academy, Indore",
+        "Location": "Indore",
+        "Dates of Employment": "Sept 2023 \u2013 Present",
+        "Responsibilities/Projects": []
+    },
+    "Projects": [
+        {
+            "Project Title": "CropScanAI \u2013 AI Crop Disease Detection",
+            "Description/Technologies Used": "Built a CNN model using TensorFlow achieving ~88\u201390% accuracy for disease detection; developed a Flask-based web application for image upload and real-time predictions; applied image preprocessing using OpenCV and NumPy for model input optimization.",
+            "Outcomes/Results": "Achieved ~88\u201390% accuracy in disease detection"
+        },
+        {
+            "Project Title": "InboxAI \u2013 LLM-powered Email Assistant",
+            "Description/Technologies Used": "Developed backend APIs using FastAPI integrating Gmail & Google Calendar for email retrieval and scheduling; implemented automated email processing using LLMs; built a pipeline for parsing attachments (PDF, OCR, text extraction); managed session data using SQLite.",
+            "Outcomes/Results": "Integrated Gmail & Google Calendar APIs, handled email retrieval and scheduling, processed attachments with OCR and text extraction"
+        }
+    ],
+    "Skills": {
+        "Programming Languages": [
+            "Python",
+            "Java"
+        ],
+        "Technologies/Tools": [
+            "FastAPI",
+            "Flask",
+            "TensorFlow",
+            "Pandas",
+            "NumPy",
+            "OpenCV",
+            "Git",
+            "VS Code",
+            "Power BI",
+            "SQLite"
+        ]
+    },
+    "Additional Information": {
+        "Certifications": [],
+        "Awards or Honors": [
+            "Academic Topper: 1st position in 2nd year (CGPA 9.09)",
+            "Sports: 1st Place \u2013 Table Tennis (Department Level)"
+        ],
+        "Professional Affiliations": [],
+        "Languages": [
+            "Python",
+            "Java",
+            "English"
+        ]
+    }
+}
